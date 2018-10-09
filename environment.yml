@@ -3,6 +3,7 @@ dependencies:
   - numpy
   - pip
   - pip:
+      - feather-format
       - julia
       - sos
       - sos-notebook
