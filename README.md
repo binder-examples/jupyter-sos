@@ -23,7 +23,7 @@ different kernels for SoS.
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/jupyter-sos/master)
 
 The master branch uses a `Docker` file to set up most kernels that SoS
-supports. The docker file is derived from [Jupyter Notebook Data Science
+supports. The docker file is derived from [mdabioinfo/sos-notebook](https://hub.docker.com/r/mdabioinfo/sos-notebook/tags/), which is in turn derived from [Jupyter Notebook Data Science
 Stack](https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook) and contains the following kernels:
 
 * Python 2 kernel for Python 2.7
@@ -32,6 +32,7 @@ Stack](https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook
 * [iJavaScript](https://github.com/n-riesco/ijavascript) for node.js
 * [iJulia](https://github.com/JuliaLang/IJulia.jl) for Julia
 * [ir](https://github.com/IRkernel/IRkernel) kernel for R
+* [markdown](https://github.com/vatlab/markdown-kernel) kernel that allows the expansion of SoS (Python) expressions in markdown contents.
 * [Octave Kernel](https://github.com/Calysto/octave_kernel) for octave
 * [SPARQL kernel](https://github.com/paulovn/sparql-kernel) for Sparql, included to demonstrate how SoS works with
   any Jupyter kernel (not in a language that SoS understands)
