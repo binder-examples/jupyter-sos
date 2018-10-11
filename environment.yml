@@ -6,6 +6,7 @@ dependencies:
       - feather-format
       - julia
       - xlrd
+      - openpyxl
       - sos
       - sos-notebook
   
