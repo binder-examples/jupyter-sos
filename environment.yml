@@ -5,6 +5,7 @@ dependencies:
   - pip:
       - feather-format
       - julia
+      - xlrd
       - sos
       - sos-notebook
   
