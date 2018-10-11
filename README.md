@@ -31,7 +31,7 @@ Stack](https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook
 * [Bash kernel](https://github.com/takluyver/bash_kernel) for using bash commands
 * [iJavaScript](https://github.com/n-riesco/ijavascript) for node.js
 * [iJulia](https://github.com/JuliaLang/IJulia.jl) for Julia
-# [ir](https://github.com/IRkernel/IRkernel) kernel for R
+* [ir](https://github.com/IRkernel/IRkernel) kernel for R
 * [Octave Kernel](https://github.com/Calysto/octave_kernel) for octave
 * [SPARQL kernel](https://github.com/paulovn/sparql-kernel) for Sparql, included to demonstrate how SoS works with
   any Jupyter kernel (not in a language that SoS understands)
