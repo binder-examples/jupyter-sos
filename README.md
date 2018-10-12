@@ -22,7 +22,7 @@ different kernels for SoS.
 
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/jupyter-sos/master)
 
-The master branch uses a `Docker` file to set up most kernels that SoS
+The master branch uses a `Dockerfile` to set up most kernels that SoS
 supports. The docker file is derived from [mdabioinfo/sos-notebook](https://hub.docker.com/r/mdabioinfo/sos-notebook/tags/), which is in turn derived from [Jupyter Notebook Data Science
 Stack](https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook) and contains the following kernels:
 
