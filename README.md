@@ -1,3 +1,6 @@
+# dall branch binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ImmediateStranger/jupyter-sos_fork/dallbranch)
+
 # SoS: Using multiple kernels in a notebook
 
 [Script of Scripts](https://vatlab.github.io/sos-docs) is a polyglot
